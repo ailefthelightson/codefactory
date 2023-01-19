@@ -43,3 +43,16 @@ span{
     margin-bottom: 5vh;
 }
 
+#div-relative {
+    position:relative;
+    bottom:-50px;
+    margin-bottom:50px;
+    width:100%;
+}
+
+#div-fixed  {
+    position:fixed;
+    bottom: 0px;
+    width:100%;
+}
+
