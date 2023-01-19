@@ -23,3 +23,23 @@ span{
     height: 10vh;
     text-align: center;
 }
+
+#div-static {
+    position: static;
+}
+
+#div-absolute   {
+    position: absolute;
+    bottom: 20%;
+    right:30%;
+    width: 40vw;
+}
+
+#div-sticky {
+    position:sticky;
+    top:0;
+    width: 100%;
+    z-index:1;
+    margin-bottom: 5vh;
+}
+
