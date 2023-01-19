@@ -1,0 +1,35 @@
+.pixels {
+    margin:10px;
+    background-color: gray;
+}
+
+.points {
+font-size: 14pt;
+}
+
+.inches {
+    font-size:0.5in;
+}
+.centimeters    {
+    font-size:1.5cm;
+}
+.millimeters    {
+    font-size:5mm;
+}
+.picas {
+    font-size:1pc;
+}
+.ems {
+    font-size: 2em;
+}
+.exs {
+    width:20ex;
+}
+.percent {
+    font-size:120%;
+}
+.viewport {
+    background-color: green;
+    height: 20vh;
+    width: 50;
+}
